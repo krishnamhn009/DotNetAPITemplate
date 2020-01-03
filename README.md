@@ -1,2 +1,2 @@
-# APITemplate
+# DotNetAPITemplate
 Custom .net API template

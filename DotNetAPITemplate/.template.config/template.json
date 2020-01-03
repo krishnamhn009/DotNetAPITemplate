@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Krishna M Digvijai",
+  "classifications": [ "Common", "WebAPI" ],
+  "identity": "KD.WebAPITemplate.CSharp",
+  "name": "KD Web Api",
+  "shortName": "kdwebapi",
+  "tags": { "language": "C#", 
+            "type": "project"
+  }
+}  
